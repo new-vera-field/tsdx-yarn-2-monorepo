@@ -1,0 +1,7 @@
+{
+    "paths": {
+        "baseUrl": ".",
+        "packagespackage1": ["./packages/package1/src"],
+        "packagespackage2": ["./packages/package2/src"],
+    }
+}
