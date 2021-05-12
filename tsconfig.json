@@ -3,5 +3,7 @@
         "baseUrl": ".",
         "packagespackage1": ["./packages/package1/src"],
         "packagespackage2": ["./packages/package2/src"],
+        "packagespackage3": ["./packages/package3/src"],
+        "packagespackage4": ["./packages/package4/src"],
     }
 }
