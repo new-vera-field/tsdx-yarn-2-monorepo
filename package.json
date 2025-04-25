@@ -1,8 +1,8 @@
 {
   "name": "tsdx-yarn-2-monorepo",
-  "workspaces": [
-    "packages/*"
-  ],
+  "workspaces": {
+  "packages": ["packages/*"]
+}
   "dependencies": {
     "tsdx": "https://github.com/cspotcode/tsdx#yarn2"
   }
